@@ -1,0 +1,15 @@
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\bin\Debug\net6.0\cpfTestRepo-1.exe
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\bin\Debug\net6.0\cpfTestRepo-1.deps.json
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\bin\Debug\net6.0\cpfTestRepo-1.runtimeconfig.json
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\bin\Debug\net6.0\cpfTestRepo-1.dll
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\bin\Debug\net6.0\cpfTestRepo-1.pdb
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\cpfTestRepo-1.csproj.AssemblyReference.cache
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\cpfTestRepo-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\cpfTestRepo-1.AssemblyInfoInputs.cache
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\cpfTestRepo-1.AssemblyInfo.cs
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\cpfTestRepo-1.csproj.CoreCompileInputs.cache
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\cpfTestRepo-1.dll
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\refint\cpfTestRepo-1.dll
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\cpfTestRepo-1.pdb
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\cpfTestRepo-1.genruntimeconfig.cache
+C:\Projects\CPF\cpfTestRepo\cpfTestRepo-1\obj\Debug\net6.0\ref\cpfTestRepo-1.dll

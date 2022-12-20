@@ -1,0 +1,31 @@
+name: Build  & Test DotNet Apps
+
+on: 
+  # Run this workflow when code is pushed or a pull request is created.
+  push: [ main ]
+  pull_request: [ main ]
+
+jobs:
+  # Name of the job.
+  BuildDotNet:
+    runs-on: windows-latest
+    
+    steps:
+
+      # Checkout the repository, v3 is the GH version and has nothing to do with your repo
+      - uses: actions/checkout@v3
+      - name: Setup .Net
+        
+        # Setup the .Net CLI for a specific version of .Net.
+        uses: actions/setup-dotnet@v3
+          dotnet-version 6.0.x
+
+#      - name: Restore dependencies via NuGet
+#        run: dotnet restore
+      
+      - name: Build
+        run: dotnet build
+      
+      # Test solution without build or restore.
+      - name: Test
+        run: dotnet test --no-build --verbosity normal

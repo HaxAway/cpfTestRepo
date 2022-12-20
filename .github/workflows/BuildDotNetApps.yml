@@ -19,7 +19,7 @@ jobs:
 
         # Setup the .Net CLI for a specific version of .Net.
         uses: actions/setup-dotnet@v3
-          dotnet-version 6.0.x
+          #dotnet-version 6.0.x
 
       #      - name: Restore dependencies via NuGet
       #        run: dotnet restore

@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // Initiate change
             Console.WriteLine("What is your name?");
             var name = Console.ReadLine();
             var currentDate = DateTime.Now;
